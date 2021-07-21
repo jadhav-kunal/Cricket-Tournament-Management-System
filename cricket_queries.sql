@@ -52,3 +52,4 @@ select country_name from team minus ;select country_name from team where team_id
  select * from team;
  
  select * from player;
+ 
