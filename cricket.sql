@@ -34,6 +34,7 @@ create table WICKET_KEEPER(
     wk_name varchar(30)
 );
 
+
 insert into WICKET_KEEPER values(
     'IND1221','MS Dhoni'
 );
