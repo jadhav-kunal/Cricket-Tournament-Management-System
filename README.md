@@ -1,6 +1,8 @@
 # Cricket-Tournament-Management-System
 ## Database Management System Project
 
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 The proposed Cricket Management system is an automated Management
 system built for cricket organizers. The proposed system allows the organizers
 to go through the data of various cricket teams worldwide. Less effort is
